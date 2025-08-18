@@ -11,4 +11,4 @@ Technical Details
 # Dependencies:
 Python 3.x, Pandas, Numpy, Matplotlib
 # Note-
-The dataset is present in the filename canadian_loan_portfolio.csv. The PDF version of the charts are also available.
+The dataset is present in the filename canadian_loan_portfolio.csv. 
