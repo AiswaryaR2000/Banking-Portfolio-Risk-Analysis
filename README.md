@@ -9,9 +9,6 @@ Loan-Level Analysis: Enhances original data with calculated risk metrics<br>
 Executive Summary: Generates a clear, concise report for management
 Technical Details
 # Dependencies:
-Python 3.x
-pandas
-numpy
-matplotlib
+Python 3.x, Pandas, Numpy, Matplotlib
 # Note-
 The dataset is present in the filename canadian_loan_portfolio.csv. The PDF version of the charts are also available.
