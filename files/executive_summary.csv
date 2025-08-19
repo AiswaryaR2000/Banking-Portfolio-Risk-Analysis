@@ -1,0 +1,16 @@
+Metric,Value
+Portfolio Size (Loans),"1,000"
+Total Exposure ($M),144
+Provinces Analyzed,6 provinces
+Loan Types,"Mortgage, Auto, Personal, Credit Line"
+Current Default Rate (%),6.3%
+Stress Scenario Applied,5% Unemployment + 3% Interest Rate Increase
+Normal Expected Loss ($M),9.2
+Stressed Expected Loss ($M),27.9
+Loss Amplification (%),204%
+Additional Capital Required ($M),18.7
+Average PD - Normal (%),15.43%
+Average PD - Stressed (%),31.64%
+Portfolio Loss Rate - Normal (%),6.40%
+Portfolio Loss Rate - Stressed (%),19.44%
+Total Risk-Weighted Assets ($M),93
