@@ -1,4 +1,4 @@
-# Loan-Portfolio-Risk-Analysis
+# Banking Portfolio Risk Analysis
 Performs comprehensive Basel III compliant risk analysis and stress testing on loan portfolios. It calculates key risk metrics, simulates economic stress scenarios, and generates professional reports and visualizations.
 # Key Features
 Basel III Risk Metrics: Calculates Probability of Default (PD), Loss Given Default (LGD), Exposure at Default (EAD), Expected Loss (EL), and Risk-Weighted Assets (RWA)<br>  
